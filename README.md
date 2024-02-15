@@ -21,4 +21,11 @@ This calendar application offers a user-friendly interface with customizable fea
 The application prioritizes user experience with an intuitive interface designed to streamline event management. Users can effortlessly navigate, customize, and interact with their events, enhancing productivity and organization.
 
 
+## Tech Stack
+
+- **Frontend**:
+  - React
+  - Chakra UI
+
+
 
