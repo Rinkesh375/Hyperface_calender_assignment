@@ -38,8 +38,11 @@ The application prioritizes user experience with an intuitive interface designed
 ## Getting Started
 
 **1** Clone the repository.
+
 **2** Install dependencies using npm install.
-**3** Start the development server using npm run dev.
+
+**3** Start the development server using npm start.
+
 **4** Open your browser and navigate to the provided URL to view the application.
 
 
