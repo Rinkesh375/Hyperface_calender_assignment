@@ -1,0 +1,18 @@
+.rbc-today {
+  /* background-color: red !important;  */
+}
+
+.rbc-current-time-indicator {
+  background-color: red !important; /* Change the color to red */
+}
+
+.rbc-day-slot .rbc-event {
+  background: transparent !important;
+  color: blue;
+  border: blue;
+}
+
+.rbc-day-slot:hover .rbc-event:hover {
+  background: rgb(103, 103, 136) !important;
+  color: white;
+}
