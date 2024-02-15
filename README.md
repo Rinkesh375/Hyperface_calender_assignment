@@ -35,6 +35,14 @@ The application prioritizes user experience with an intuitive interface designed
  - ![Calender UI-3](https://github.com/Rinkesh375/Hyperface_calender_assignment/assets/107518782/d14d6a03-570e-414e-aea4-d8819fcde28b)
 
 
+## Getting Started
+
+**1** Clone the repository.
+**2** Install dependencies using npm install.
+**3** Start the development server using npm run dev.
+**4** Open your browser and navigate to the provided URL to view the application.
+
+
 
 
 
